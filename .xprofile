@@ -1,0 +1,3 @@
+nm-applet -f &
+nitrogen --restore
+picom -f &
